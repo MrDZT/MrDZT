@@ -8,19 +8,19 @@ i feel sick
 
 ## ✨ About me
 - 🎀 **dull guy**
-- 💻 **wont play game anymore**
+- 💻 **wont play games anymore**
 - 🌸 **hate learning schoolwork**
 
 ---
 
 ## 🔧 Current hobbies
-- **Html** but i am a noob
+- **Html** ...but i am a noob
 
 ---
 
 ## 🎮 Game Achievements
 - **Counter Strike**：`Shanghai solo top 200`
-- **Roblox**:`6yr+ player and noob dev`
+- **Roblox**:`6yr+ player and dev`
 
 ---
 
