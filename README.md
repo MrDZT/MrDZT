@@ -2,7 +2,7 @@
 i feel sick
 # 🌸 欢迎来到我的二次元世界！ 🌸
 
-![Banner]([https://i.imgur.com/your-anime-banner.png](https://bbs.api.hoilai.com/upload/img/2025/4/12/1628bbab-27ac-4539-95ad-0dfd04f1d32a.jpg))  
+![Banner](https://i.imgur.com/your-anime-banner.png](https://bbs.api.hoilai.com/upload/img/2025/4/12/1628bbab-27ac-4539-95ad-0dfd04f1d32a.jpg)  
 *（上方可以放置一个二次元风格的横幅图片）*
 
 ---
